@@ -1,0 +1,6 @@
+{
+  "name": "AURA-FER: Neural Emotion Recognition",
+  "description": "An advanced Facial Emotion Recognition (FER) cognitive interface combining computer vision, machine learning, and psychology with biometric HUD animations, robotic voice synthesis, and real-time facial action coding.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
